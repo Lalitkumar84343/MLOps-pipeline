@@ -33,7 +33,7 @@ dependencies:
 
   # Currently Azure ML Workbench only supports 3.5.2 and later.
 
-- python=3.6.2
+- python=3.11.2
   # Required by azureml-defaults, installed separately through Conda to
 
   # get a prebuilt version and not require build tools for the install.
