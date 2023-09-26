@@ -9,7 +9,7 @@
             "userManagedDependencies": false,
             "condaDependencies": {
                 "dependencies":[
-                    "python=3.6.2", 
+                    "python=3.11.2", 
                     "scikit-learn",
                     {
                     "pip":[
